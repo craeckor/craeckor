@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My Logical Name is craeckor, my Physical name is... `Error: Variable physicalname not found, Please check the spelling or create the Variable physicalname!`
+
+All my profiles like Steam or Discord ar Visible under [little.link.crae-kc-or.xyz](https://little.link.crae-ck-or.xyz).
+
+### 📫 How to reach me:
+
+Want to send me a Mail? Noo Problem! [craeckor@craeckor.io](mailto:craeckor@craeckor.io) or `$profilename@$profilename.io` or `%profilename%@%profilename%.io`.
+
+Contact me on Discord: `craeckor#0001`.
