@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My Logical Name is craeckor, my Physical name is... `Error: Variable physicalname not found, Please check the spelling or create the Variable physicalname!`
 
-All my profiles like Steam or Discord are Visible under [little.link.sshwifty.de](https://little.link.sshwifty.de).
+All my profiles like Steam or Discord are Visible under [little-link.sshwifty.de](https://little-link.sshwifty.de).
 
 ### 📫 How to reach me:
 
