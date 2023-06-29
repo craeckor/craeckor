@@ -23,4 +23,4 @@ All my profiles like Steam or Discord are Visible under [craeckor-little-link.cr
 
 Want to send me a Mail? Noo Problem!: [craeckor@craeckor.io](mailto:craeckor@craeckor.io).
 
-Want to chat with my? My Discord: `craeckor`.
+Want to chat with my? My Discord: `craeckor`, direct link: [craeckor](https://discord.com/users/431468057219694595).
