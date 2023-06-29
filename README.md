@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Logical Name is craeckor, my Physical name is... `Error: Variable physicalname not found, Please check the spelling or create the Variable physicalname!`
+My name is craeckor
 
-All my profiles like Steam or Discord are Visible under [little-link.sshwifty.de](https://little-link.sshwifty.de).
+All my profiles like Steam or Discord are Visible under [craeckor-little-link.craeckor.io](https://craeckor-little-link.craeckor.io).
 
 ### 📫 How to reach me:
 
-Want to send me a Mail? Noo Problem! [craeckor@craeckor.io](mailto:craeckor@craeckor.io) or `$profilename@$profilename.io` or `%profilename%@%profilename%.io`.
+Want to send me a Mail? Noo Problem!: [craeckor@craeckor.io](mailto:craeckor@craeckor.io).
 
-Contact me on Discord: `craeckor#0001`.
+Want to chat with my? My Discord: `craeckor`.
