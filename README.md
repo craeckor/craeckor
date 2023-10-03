@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 My name is craeckor
 
-All my profiles like Steam or Discord are visible under [craeckor-little-link.craeckor.io](https://craeckor-little-link.craeckor.io).
+All my profiles like Steam or Discord are visible under [craeckor-little-link.craeckor.ch](https://craeckor-little-link.craeckor.ch).
 
 ### 📫 How to reach me:
 
-Want to send me a Mail? Noo Problem!: [craeckor@craeckor.io](mailto:craeckor@craeckor.io).
+Want to send me a Mail? Noo Problem!: [craeckor@craeckor.ch](mailto:craeckor@craeckor.ch).
 
 Want to chat with me? My Discord: `craeckor`, direct link: [craeckor](https://discord.com/users/431468057219694595).
