@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is craeckor
 
-All my profiles like Steam or Discord are visible under [craeckor-little-link.craeckor.ch](https://craeckor-little-link.craeckor.ch).
+All my profiles like Steam or Discord are visible under [craeckor.ch](https://craeckor.ch).
 
 ### 📫 How to reach me:
 
